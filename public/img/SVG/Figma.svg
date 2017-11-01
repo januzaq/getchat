@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Figma</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social_icons" transform="translate(-622.000000, -654.000000)" fill-rule="nonzero">
+            <g id="Figma" transform="translate(622.000000, 654.000000)">
+                <g id="Color" fill="#333333">
+                    <g id="Taobao">
+                        <g id="back">
+                            <g id="path0_fill-link">
+                                <path d="M0,30 C0,13.4315 13.4315,0 30,0 C46.5685,0 60,13.4315 60,30 C60,46.5685 46.5685,60 30,60 C13.4315,60 0,46.5685 0,30 Z" id="path0_fill"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(18.000000, 12.000000)">
+                    <g id="5" transform="translate(0.000000, 24.000000)" fill="#0ACF83">
+                        <g id="path1_fill-link">
+                            <path d="M6,12 C9.31371,12 12,9.31371 12,6 L12,0 L6,0 C2.68629,0 0,2.68629 0,6 C0,9.31371 2.68629,12 6,12 Z" id="path1_fill"></path>
+                        </g>
+                    </g>
+                    <g id="4" transform="translate(0.000000, 12.000000)" fill="#A259FF">
+                        <g id="path2_fill-link">
+                            <path d="M0,6 C0,2.68629 2.68629,0 6,0 L12,0 L12,12 L6,12 C2.68629,12 0,9.31371 0,6 Z" id="path2_fill"></path>
+                        </g>
+                    </g>
+                    <g id="3" fill="#F24E1E">
+                        <g id="path2_fill-link">
+                            <path d="M0,6 C0,2.68629 2.68629,0 6,0 L12,0 L12,12 L6,12 C2.68629,12 0,9.31371 0,6 Z" id="path2_fill"></path>
+                        </g>
+                    </g>
+                    <g id="2" transform="translate(12.000000, 0.000000)" fill="#FF7262">
+                        <g id="path3_fill-link">
+                            <path d="M0,0 L6,0 C9.31371,0 12,2.68629 12,6 C12,9.31371 9.31371,12 6,12 L0,12 L0,0 Z" id="path3_fill"></path>
+                        </g>
+                    </g>
+                    <g id="1" transform="translate(12.000000, 12.000000)" fill="#1ABCFE">
+                        <g id="path4_fill-link">
+                            <path d="M12,6 C12,9.31371 9.31371,12 6,12 C2.68629,12 0,9.31371 0,6 C0,2.68629 2.68629,0 6,0 C9.31371,0 12,2.68629 12,6 Z" id="path4_fill"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Dropbox</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social_icons" transform="translate(-622.000000, -1155.000000)">
+            <g id="Dropbox" transform="translate(622.000000, 1155.000000)">
+                <path d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" id="back" fill="#FFFFFF"></path>
+                <g id="dropbox_glyph_blue" transform="translate(12.000000, 13.000000)" fill="#007EE5">
+                    <path d="M10.8687093,3.51885069e-05 L18.4736494,6.34768993 L7.51524458,13.1144398 L3.51885069e-05,7.09650135 L10.8687093,3.51885069e-05 Z M0,19.1330116 L7.51520939,13.1143694 L18.4739661,19.8814711 L10.8686741,26.2294778 L0,19.1330116 Z M18.4738253,19.8813656 L29.4329339,13.1146157 L36.9477914,19.132906 L26.0791173,26.2293722 L18.4738253,19.8813656 Z M36.9479321,7.09646616 L29.4327227,13.1144046 L18.4739661,6.34765474 L26.079258,0 L36.9479321,7.09646616 Z M18.4963108,21.2470315 L26.1237715,27.5763882 L29.3878574,25.4453723 L29.3878574,27.83432 L18.4963108,34.3656587 L7.60476414,27.83432 L7.60476414,25.4453723 L10.86885,27.5763882 L18.4963108,21.2470315 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

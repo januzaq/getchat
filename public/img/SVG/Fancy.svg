@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Fancy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social_icons" transform="translate(-522.000000, -1455.000000)">
+            <g id="Fancy" transform="translate(522.000000, 1455.000000)">
+                <circle id="Oval" fill="#4E99C7" cx="30" cy="30" r="30"></circle>
+                <path d="M39.0224768,37.8207073 L32.8426623,37.8207073 L32.8426623,45.1448049 C32.8426623,46.7217073 31.5699404,48 30,48 C28.4299868,48 27.1572649,46.7217073 27.1572649,45.1448049 L27.1572649,37.8207073 L20.9775232,37.8207073 C19.8853907,37.8207073 19,36.9314634 19,35.8344878 L19,22.9241707 C19,22.8820976 19.0037152,22.8409756 19.0062649,22.7996341 C19.1383377,16.8130976 24.0079139,12 30,12 C35.9920861,12 40.8616623,16.8130976 40.9937351,22.7996341 C40.9962848,22.8409756 41,22.8820976 41,22.9241707 L41,35.8344878 C41,36.9314634 40.1146093,37.8207073 39.0224768,37.8207073" id="Fill-4" fill="#FFFFFE"></path>
+            </g>
+        </g>
+    </g>
+</svg>

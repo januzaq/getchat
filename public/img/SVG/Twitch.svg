@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Twitch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social_icons" transform="translate(-522.000000, -854.000000)">
+            <g id="Twitch" transform="translate(522.000000, 854.000000)">
+                <path d="M30,60 C46.5685425,60 60,46.5685425 60,30 C60,13.4314575 46.5685425,0 30,0 C13.4314575,0 0,13.4314575 0,30 C0,46.5685425 13.4314575,60 30,60 Z" id="Oval" fill="#F1F1F1"></path>
+                <g id="Twitch_GlitchIcon_purple" transform="translate(13.000000, 14.000000)" fill="#6441A5">
+                    <path d="M2.413944,3.6e-05 L0.066144,6.261036 L0.066144,31.302036 L8.670744,31.302036 L8.670744,36.000036 L13.368504,36.000036 L18.061584,31.302036 L25.103184,31.302036 L34.493904,21.914676 L34.493904,3.6e-05 L2.413944,3.6e-05 Z M5.541864,3.128556 L31.364664,3.128556 L31.364664,20.346276 L25.885944,25.825356 L17.280024,25.825356 L12.588264,30.516876 L12.588264,25.825356 L5.541864,25.825356 L5.541864,3.128556 Z" id="Fill-1"></path>
+                    <path d="M14.14992,18.78312 L17.28,18.78312 L17.28,9.39288 L14.14992,9.39288 L14.14992,18.78312 Z M22.75644,18.78312 L25.88592,18.78312 L25.88592,9.39288 L22.75644,9.39288 L22.75644,18.78312 Z" id="Fill-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

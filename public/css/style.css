@@ -1,0 +1,20 @@
+body{
+	background: url(https://images.pexels.com/photos/2255/black-and-white-city-houses-skyline.jpg?w=940&h=650&auto=compress&cs=tinysrgb) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family:'Helvetica Neue','Roman';
+	font-color: #43515c;
+	font-size: 15px;
+}
+a.btn{
+	color: #6a67ce;
+}
+a.btn:hover {
+	text-decoration: none;
+}
+#btn{
+	background: #6a67ce;
+	color: #fff;
+}

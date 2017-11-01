@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Bing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social_icons" transform="translate(-922.000000, -1755.000000)">
+            <g id="Bing" transform="translate(922.000000, 1755.000000)">
+                <path d="M30,60 C46.5685435,60 60,46.5685435 60,30 C60,13.4314565 46.5685435,0 30,0 C13.4314565,0 0,13.4314565 0,30 C0,46.5685435 13.4314565,60 30,60 Z" id="Oval" fill="#008373"></path>
+                <polygon id="path2998" fill="#FFFFFF" fill-rule="nonzero" points="19 12 26.1912491 14.5298213 26.1912491 39.8430416 36.3204568 33.9956727 31.3543223 31.6655871 28.2212668 23.867537 44.181085 29.4745017 44.181085 37.6261487 26.1953501 48 19 43.997543"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

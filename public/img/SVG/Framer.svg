@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Framer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 12 0 12 12"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social_icons" transform="translate(-322.000000, -754.000000)">
+            <g id="Framer" transform="translate(322.000000, 754.000000)">
+                <circle id="Oval" fill="#FFFFFF" cx="30" cy="30" r="30"></circle>
+                <g id="Logo" transform="translate(18.000000, 16.000000)">
+                    <polygon id="Clip-2" fill="#0055FF" points="0 24 12 24 12 36"></polygon>
+                    <polygon id="Clip-5" fill="#00AAFF" points="0 12 12 12 12 24 0 24"></polygon>
+                    <polygon id="Clip-8" fill="#00AAFF" points="12 12 24 24 12 24"></polygon>
+                    <polygon id="Clip-11" fill="#88DDFF" points="12 0 24 0 24 12 12 12"></polygon>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Clip-14" fill="#88DDFF" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,78 @@
+
+body{
+	background: #dbeede;
+	margin: 0;
+	padding: 0;
+}
+li.create{
+	padding: 0px;
+	margin-top: 8px;
+}
+#btn{
+	
+	padding: 5px 20px;
+	background: #6a67ce;
+	color: #fff;
+}
+.col-md-12 {
+	margin-top: 15px;
+}
+#list{
+	margin-top: 30px;
+}
+span.input-group-addon{
+	padding-top: 0;
+	padding-bottom: 0;
+}
+#span-whatsapp-icon{
+	background: #25D366;
+}
+#span-telegram-icon{
+	background: #2DA4D7;
+}
+#span-fbmessenger-icon{
+	background: #0077E5;
+}
+#span-viber-icon{
+	background: #7F4DA0;
+}
+#span-vk-icon{
+	background: #4C6C91;
+}
+#span-ok-icon{
+	background: #F68634;
+}
+#span-skype-icon{
+	background: #3E9DD7;
+}
+#social-icon{
+	width: 27px;
+	height: 27px;
+	padding: 0;
+	
+}
+#submit{
+	background: #6a67ce;
+	color: #fff;
+}
+span#page-list{
+	width: 20px;
+	font-size: 12px;
+}
+div#list:hover #delete,
+{
+	display: block;
+}
+a#delete,
+a#copy{
+	display: none;
+}
+#footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    margin-bottom: 0;
+    text-align: center;
+    position: fixed;
+
+}
